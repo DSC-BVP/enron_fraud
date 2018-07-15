@@ -5,7 +5,7 @@ To this day, many wonder how such a powerful business, at the time one of the la
 
 Read the full story on: https://www.britannica.com/topic/Enron-What-Happened-1517868
 
-This project is an attempt at gaining insights and solving the mystery throught the application of Machine Learning.
+This project is an attempt at gaining insights and solving the mystery through Data Analysis.
 
 The [Email](https://github.com/asterisk-bhanu/enron_fraud/blob/master/emails.csv) dataset is a refined, scaled version of originally 619K emails disclosed during legal investigation of the said organisation.
 The [Main](https://github.com/asterisk-bhanu/enron_fraud/blob/master/main_email.py) file processes the email dataset, classifies the emails and filters the most frequently mentioned words. Visualisation has been provided to enhance readability.
